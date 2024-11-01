@@ -1,1 +1,3 @@
-# hanagongs.github.io
+---
+permalink: /index.html
+---
